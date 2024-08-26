@@ -21,5 +21,6 @@ public class test_01 {
 
         System.out.println("면적 : " + (wh * ht));
         System.out.println("둘레 : " + (wh * 2 + ht * 2));
+        System.out.println("나머지 : " + ((wh * 2) % (ht * 2)));
     }
 }
