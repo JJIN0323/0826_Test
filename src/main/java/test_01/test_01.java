@@ -4,6 +4,7 @@ public class test_01 {
     public static void main(String[] args) {
 
         // 실습문제 1
+        // 각 수의 사칙연산 계산하기
 
         int num1 = 20;
         int num2 = 30;
@@ -15,6 +16,7 @@ public class test_01 {
         System.out.println("나누기한 나머지 결과 : " + (num1 % num2));
 
         // 실습문제 2
+        // 사각형의 넓이와 둘레 구하기
 
         double wh = 12.5;
         double ht = 36.4;
